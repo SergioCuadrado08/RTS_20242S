@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/CMakeFiles/bootloader
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/CMakeFiles/bootloader.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S/ESP_PROJECTS/gpio_example_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
