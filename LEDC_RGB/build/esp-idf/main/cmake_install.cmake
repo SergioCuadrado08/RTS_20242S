@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Sergio/LEDC_RGB_example/main
+# Install script for directory: C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

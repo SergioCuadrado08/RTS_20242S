@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
+  include("C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/esp_hw_support/lowpower/cmake_install.cmake")
+  include("C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/esp_hw_support/lowpower/cmake_install.cmake")
 endif()
 

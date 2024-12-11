@@ -39,10 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
-  include("C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
-  include("C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
-  include("C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake")
+  include("C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
+  include("C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake")
 
 endif()
 

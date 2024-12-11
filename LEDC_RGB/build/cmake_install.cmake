@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Sergio/LEDC_RGB_example
+# Install script for directory: C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/cmake_install.cmake")
+  include("C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Sergio/LEDC_RGB_example/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

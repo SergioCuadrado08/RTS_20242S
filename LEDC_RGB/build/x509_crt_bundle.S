@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/Sergio/LEDC_RGB_example/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)
