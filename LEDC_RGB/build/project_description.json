@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "LEDC_RGB_example",
-    "project_version":    "b9f6e5d-dirty",
+    "project_version":    "1dfdc90-dirty",
     "project_path":       "C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB",
     "idf_path":           "C:/Users/Sergio/esp/v5.3.1/esp-idf",
     "build_dir":          "C:/Users/Sergio/Desktop/Sergio/Universidad/2024-2S/RTS_20242S1/ESP_PROJECTS/RTS_20242S/LEDC_RGB/build",
