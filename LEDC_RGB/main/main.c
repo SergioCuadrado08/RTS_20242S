@@ -7,9 +7,10 @@
 
 extern volatile bool led_on;
 
+
 #define POT_CHANNEL ADC1_CHANNEL_6  // GPIO34 para el potenciómetro en ESP32
 #define ADC_WIDTH ADC_WIDTH_BIT_12  // Resolución de 12 bits (0 - 4095)
-#define ADC_ATTEN ADC_ATTEN_DB_11   // Atenuación para rango de voltaje 0-3.3V
+#define ADC_ATTEN ADC_ATTEN_DB_12   // Atenuación para rango de voltaje 0-3.3V
 
 int lectura_adc = 0;
 uint8_t brillo = 0; 
